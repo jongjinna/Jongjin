@@ -26,7 +26,7 @@
   <a href="https://plotly.com/" target="_blank">
     <img alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
   </a>
-  <a href="https://jupyter.org/" target="_blank">
+  <a href="" target="_blank">
     <img alt="QuantLib" src="https://img.shields.io/badge/Quantlib-000000?style=for-the-badge&logo=Quantcast&logoColor=white">
   </a>
   <a href="https://www.selenium.dev/" target="_blank">
@@ -38,59 +38,82 @@
   <a href="https://scikit-learn.org/" target="_blank">
     <img alt="Scikit" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
   </a>
-  bs4
-  엑셀
-  또,,
-  
+  <a href="" target="_blank">
+    <img alt="Bitcoin" src="https://img.shields.io/badge/bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white">
+  </a>
    
 <h3>ML</h3>
-  <a href="https://keras.io/" target="_blank">
+  <a href="" target="_blank">
     <img alt="TensorFlow" src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
   </a>
   <a href="https://keras.io/" target="_blank">
     <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
   </a>
- 
-<h3>Web</h3>
-  <a href="https://jupyter.org/" target="_blank">
-    <img alt="HTML5" src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  </a>
-  <a href="https://jupyter.org/" target="_blank">
-    <img alt="CSS3" src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  </a>
-  <a href="https://jupyter.org/" target="_blank">
-    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
-  </a>
-  <a href="https://jupyter.org/" target="_blank">
-    <img alt="Three.js" src="https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=three.js&logoColor=white">
-  </a>
-  <a href="https://jupyter.org/" target="_blank">
-    <img alt="TypeScript" src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  </a>
-  <a href="https://jupyter.org/" target="_blank">
-    Node<img alt="Node" src="">
-  </a>
-  <a href="https://jupyter.org/" target="_blank">
-    React<img alt="React" src="">
+  <a href="" target="_blank">
+    <img alt="Anaconda" src="https://img.shields.io/badge/anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white">
   </a>
   
-  <a href="https://jupyter.org/" target="_blank">
+<h3>Web</h3>
+  <a href="" target="_blank">
+    <img alt="HTML5" src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  </a>
+  <a href="" target="_blank">
+    <img alt="CSS3" src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  </a>
+  <a href="" target="_blank">
+    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+  </a>
+  <a href="" target="_blank">
+    <img alt="Three.js" src="https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=three.js&logoColor=white">
+  </a>
+  <a href="" target="_blank">
+    <img alt="D3.js" src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white">
+  </a>
+  <a href="" target="_blank">
+    <img alt="TypeScript" src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  </a>
+  <a href="" target="_blank">
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+  </a>
+  <a href="" target="_blank">
+    <img alt="React" src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+  </a>
+  
+  <a href="" target="_blank">
     <img alt="Django" src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
   </a>
   <a href="https://www.mysql.com/">
     <img alt="MySQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
   </a>
   
+<h3>Auto(SS)</h3>
+  <a href="" target="_blank">
+    <img alt="AutoHotkey" src="https://img.shields.io/badge/autohotkey-334455?style=for-the-badge&logo=autohotkey&logoColor=white">
+  </a>
   
+
 <h3>Quantum</h3>
-  <a href="https://jupyter.org/" target="_blank">
+  <a href="" target="_blank">
     <img alt="Qiskit" src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=Qiskit&logoColor=white">
   </a>
   <a href="https://jupyter.org/" target="_blank">
     <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
   </a>
-  
-  and i can`t remember extra skills now,,, plz add <a> and img like above.
+
+<h3>ETC</h3>
+  <a href="" target="_blank">
+    <img alt="C" src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+  </a>
+  <a href="" target="_blank">
+    <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
+  </a>
+  <a href="" target="_blank">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  </a>
+  <a href="" target="_blank">
+    <img alt="FontAwesome" src="https://img.shields.io/badge/font%20awesome-528DD7?style=for-the-badge&logo=font%20awesome&logoColor=white">
+  </a>
+  and i can`t remember extra skills now,,, plz add <a> and img like above. 너무 많아요
 
 - 원본입니다: https://github.com/aastha12/aastha12
 

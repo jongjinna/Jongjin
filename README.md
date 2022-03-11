@@ -27,7 +27,7 @@
     <img alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
   </a>
   <a href="https://jupyter.org/" target="_blank">
-    QuantLib<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
+    QuantLib<img alt="QuantLib" src="">
   </a>
   <a href="https://www.selenium.dev/" target="_blank">
     <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
@@ -41,7 +41,7 @@
    
 <h3>ML</h3>
   <a href="https://keras.io/" target="_blank">
-    Tensorflow<img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
+    Tensorflow<img alt="Tensorflow" src="">
   </a>
   <a href="https://keras.io/" target="_blank">
     <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
@@ -49,29 +49,29 @@
  
 <h3>Web</h3>
   <a href="https://jupyter.org/" target="_blank">
-    HTML<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
+    HTML<img alt="HTML" src="">
   </a>
   <a href="https://jupyter.org/" target="_blank">
-    CSS<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
+    CSS<img alt="CSS" src="">
   </a>
   <a href="https://jupyter.org/" target="_blank">
-    JavaScript<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
+    JavaScript<img alt="JavaScript" src="">
   </a>
   <a href="https://jupyter.org/" target="_blank">
-    Threejs<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
+    Threejs<img alt="Threejs" src="">
   </a>
   <a href="https://jupyter.org/" target="_blank">
-    TypeScript<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
+    TypeScript<img alt="TypeScript" src="">
   </a>
   <a href="https://jupyter.org/" target="_blank">
-    Node<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
+    Node<img alt="Node" src="">
   </a>
   <a href="https://jupyter.org/" target="_blank">
-    React<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
+    React<img alt="React" src="">
   </a>
   
   <a href="https://jupyter.org/" target="_blank">
-    Django<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
+    Django<img alt="Django" src="">
   </a>
   <a href="https://www.mysql.com/">
     <img alt="MySQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
@@ -80,14 +80,13 @@
   
 <h3>Quantum</h3>
   <a href="https://jupyter.org/" target="_blank">
-    Qiskit<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
+    Qiskit<img alt="Qiskit" src="">
   </a>
   <a href="https://jupyter.org/" target="_blank">
     <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
   </a>
   
-  and i can`t remember extra skills now,,, plz add <a> and img like above. & categorize these(python lib/ web/ kind of ..)
-
+  and i can`t remember extra skills now,,, plz add <a> and img like above.
 
 - 원본입니다: https://github.com/aastha12/aastha12
 

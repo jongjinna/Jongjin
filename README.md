@@ -17,32 +17,32 @@
   <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   </a>
-  <a href="https://numpy.org/" target="_blank">
-    <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
-  </a>
   <a href="https://pandas.pydata.org/" target="_blank">
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
   </a>
-  <a href="https://plotly.com/" target="_blank">
-    <img alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
+  <a href="https://numpy.org/" target="_blank">
+    <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
   </a>
   <a href="" target="_blank">
-    <img alt="QuantLib" src="https://img.shields.io/badge/Quantlib-000000?style=for-the-badge&logo=Quantcast&logoColor=white">
+    <img alt="Matplotlib" src="https://img.shields.io/badge/matplotlib-239120?style=for-the-badge&logo=plotly&logoColor=white">
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img alt="Scikit" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
   </a>
   <a href="https://www.selenium.dev/" target="_blank">
     <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
   </a>
   <a href="" target="_blank">
-    <img alt="Microsoft Excel" src="https://img.shields.io/badge/microsoft%20excel-217346?style=for-the-badge&logo=microsoft%20excel&logoColor=white">
+    <img alt="QuantLib" src="https://img.shields.io/badge/Quantlib-000000?style=for-the-badge&logo=Quantcast&logoColor=white">
   </a>
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img alt="Scikit" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <a href="" target="_blank">
+    <img alt="Microsoft Excel" src="https://img.shields.io/badge/microsoft%20excel-217346?style=for-the-badge&logo=microsoft%20excel&logoColor=white">
   </a>
   <a href="" target="_blank">
     <img alt="Bitcoin" src="https://img.shields.io/badge/bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white">
   </a>
    
-<h3>ML</h3>
+<h3>Machine Learning</h3>
   <a href="" target="_blank">
     <img alt="TensorFlow" src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
   </a>
@@ -67,13 +67,16 @@
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
   </a>
   <a href="" target="_blank">
+    <img alt="TypeScript" src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  </a>
+  <a href="" target="_blank">
     <img alt="Three.js" src="https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=three.js&logoColor=white">
   </a>
   <a href="" target="_blank">
     <img alt="D3.js" src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white">
   </a>
   <a href="" target="_blank">
-    <img alt="TypeScript" src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+    <img alt="React" src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
   </a>
   <a href="" target="_blank">
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
@@ -82,27 +85,17 @@
     <img alt="NPM" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
   </a>                                                                                                              
   <a href="" target="_blank">
-    <img alt="React" src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
-  </a>
-  <a href="" target="_blank">
     <img alt="Jekyll" src="https://img.shields.io/badge/jekyll-CC0000?style=for-the-badge&logo=jekyll&logoColor=white">
   </a>
   <a href="" target="_blank">
     <img alt="Prettier" src="https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white">
   </a>
-  
   <a href="" target="_blank">
     <img alt="Django" src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
   </a>
   <a href="https://www.mysql.com/">
     <img alt="MySQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
   </a>
-  
-<h3>Auto(SS)</h3>
-  <a href="" target="_blank">
-    <img alt="AutoHotkey" src="https://img.shields.io/badge/autohotkey-334455?style=for-the-badge&logo=autohotkey&logoColor=white">
-  </a>
-  엑셀 자동화, 2개
 
 <h3>Quantum</h3>
   <a href="" target="_blank">
@@ -119,21 +112,43 @@
   <a href="" target="_blank">
     <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
   </a>
+  
   <a href="" target="_blank">
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   </a>
   <a href="" target="_blank">
-    <img alt="FontAwesome" src="https://img.shields.io/badge/font%20awesome-528DD7?style=for-the-badge&logo=font%20awesome&logoColor=white">
-  </a>
-  <a href="" target="_blank">
     <img alt="Homebrew" src="https://img.shields.io/badge/homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=white">
-  </a>                                                                                                       
+  </a> 
+  <a href="" target="_blank">
+    <img alt="GitLab" src="https://img.shields.io/badge/gitlab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white">
+  </a>
+  
+  <a href="" target="_blank">
+    <img alt="FontAwesome" src="https://img.shields.io/badge/font%20awesome-528DD7?style=for-the-badge&logo=font%20awesome&logoColor=white">
+  </a>       
+  <a href="https://simpleicons.org/" target="_blank">
+    <img alt="Simple Icons" src="https://img.shields.io/badge/simple%20icons-111111?style=for-the-badge&logo=simple%20icons&logoColor=white">
+  </a>
+  
   <a href="" target="_blank">
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   </a>
   <a href="" target="_blank">
+    <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
+  </a>
+  <a href="" target="_blank">
+    <img alt="Atom" src="https://img.shields.io/badge/atom-66595C?style=for-the-badge&logo=atom&logoColor=white">
+  </a>
+  
+  <a href="" target="_blank">
     <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
   </a>
+  
+  
+  <a href="" target="_blank">
+    <img alt="AutoHotkey" src="https://img.shields.io/badge/autohotkey-334455?style=for-the-badge&logo=autohotkey&logoColor=white">
+  </a>
+  엑셀 자동화
                                                                                                              
                                                                                                              
   

@@ -10,7 +10,8 @@
 - 🎓 I'm a student at SKKU
 - 💬 I`m interested in Finanace and Coding
 - 💼 Now I work at Samsung Securities
-
+<img src="https://img.shields.io/badge/samsung-1428A0?style=for-the-badge&logo=samsung&logoColor=white>
+          
 <h2> Experienced Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 <h3>Finance</h3>
@@ -32,8 +33,8 @@
   <a href="https://www.selenium.dev/" target="_blank">
     <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
   </a>
-  <a href="https://opencv.org/" target="_blank">
-    <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
+  <a href="" target="_blank">
+    <img alt="Microsoft Excel" src="https://img.shields.io/badge/microsoft%20excel-217346?style=for-the-badge&logo=microsoft%20excel&logoColor=white">
   </a>
   <a href="https://scikit-learn.org/" target="_blank">
     <img alt="Scikit" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
@@ -48,6 +49,9 @@
   </a>
   <a href="https://keras.io/" target="_blank">
     <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
+  </a>
+  <a href="https://opencv.org/" target="_blank">
+    <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
   </a>
   <a href="" target="_blank">
     <img alt="Anaconda" src="https://img.shields.io/badge/anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white">
@@ -76,7 +80,16 @@
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
   </a>
   <a href="" target="_blank">
+    <img alt="NPM" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
+  </a>                                                                                                              
+  <a href="" target="_blank">
     <img alt="React" src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+  </a>
+  <a href="" target="_blank">
+    <img alt="Jekyll" src="https://img.shields.io/badge/jekyll-CC0000?style=for-the-badge&logo=jekyll&logoColor=white">
+  </a>
+  <a href="" target="_blank">
+    <img alt="Prettier" src="https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white">
   </a>
   
   <a href="" target="_blank">
@@ -113,6 +126,18 @@
   <a href="" target="_blank">
     <img alt="FontAwesome" src="https://img.shields.io/badge/font%20awesome-528DD7?style=for-the-badge&logo=font%20awesome&logoColor=white">
   </a>
+  <a href="" target="_blank">
+    <img alt="Homebrew" src="https://img.shields.io/badge/homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=white">
+  </a>                                                                                                       
+  <a href="" target="_blank">
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  </a>
+  <a href="" target="_blank">
+    <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
+  </a>
+                                                                                                             
+                                                                                                             
+  
   and i can`t remember extra skills now,,, plz add <a> and img like above. 너무 많아요
 
 - 원본입니다: https://github.com/aastha12/aastha12

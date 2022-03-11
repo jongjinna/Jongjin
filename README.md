@@ -52,9 +52,7 @@
   <a href="https://opencv.org/" target="_blank">
     <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
   </a>
-  <a href="" target="_blank">
-    <img alt="Anaconda" src="https://img.shields.io/badge/anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white">
-  </a>
+
   
 <h3>Web</h3>
   <a href="" target="_blank">
@@ -139,11 +137,16 @@
   <a href="" target="_blank">
     <img alt="Atom" src="https://img.shields.io/badge/atom-66595C?style=for-the-badge&logo=atom&logoColor=white">
   </a>
+  <a href="" target="_blank">
+    <img alt="Anaconda" src="https://img.shields.io/badge/anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white">
+  </a>
+  <a href="" target="_blank">
+    <img alt="Spyder IDE" src="https://img.shields.io/badge/Spyder%20IDE-FF0000?style=for-the-badge&logo=Spyder%20IDE&logoColor=white">
+  </a>
   
   <a href="" target="_blank">
     <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
   </a>
-  
   
   <a href="" target="_blank">
     <img alt="AutoHotkey" src="https://img.shields.io/badge/autohotkey-334455?style=for-the-badge&logo=autohotkey&logoColor=white">

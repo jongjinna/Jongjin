@@ -149,13 +149,20 @@
   </a>
   
   <a href="" target="_blank">
+    <img alt="Microsoft Outlook" src="https://img.shields.io/badge/microsoft%20outlook-0078D4?style=for-the-badge&logo=microsoft%20outlook&logoColor=white">
+  </a>
+  <a href="" target="_blank">
     <img alt="AutoHotkey" src="https://img.shields.io/badge/autohotkey-334455?style=for-the-badge&logo=autohotkey&logoColor=white">
   </a>
-  엑셀 자동화
+  <a href="" target="_blank">
+    <img alt="PyPI" src="https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white">
+  </a>
+  <a href="" target="_blank">
+    <img alt="Xlwings" src="https://img.shields.io/badge/xlwings-217346?style=for-the-badge&logo=microsoft%20excel&logoColor=white">
+  </a>
                                                                                                              
                                                                                                              
   
-  and i can`t remember extra skills now,,, plz add <a> and img like above. 너무 많아요
-
+  and i can`t remember extra skills now,,, plz add <a href="~~">
 - 원본입니다: https://github.com/aastha12/aastha12
 

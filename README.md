@@ -53,11 +53,14 @@
   <a href="https://jupyter.org/" target="_blank">
     <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
   </a>
-<!-- <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a>
-<a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
-<a href="https://www.flask.com/"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
- -->
-<!--  기타 등등 추가하자, js, html, css, threejs, django, ts, quantum, ... -->
+  
+  - HTML, CSS, JS
+  - TS
+  - Threejs
+  - Django
+  - QuantLib
+  - Qiskit(studing..)
+  - and i can`t remember extra skills now,,, plz add <a> and img like above.
 
 
 - 원본입니다: https://github.com/aastha12/aastha12

@@ -60,7 +60,7 @@
   - Django
   - QuantLib
   - Qiskit(studing..)
-  - and i can`t remember extra skills now,,, plz add <a> and img like above.
+  - and i can`t remember extra skills now,,, plz add <a> and img like above. & categorize these(python lib/ web/ kind of ..)
 
 
 - 원본입니다: https://github.com/aastha12/aastha12

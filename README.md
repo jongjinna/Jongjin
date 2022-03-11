@@ -3,13 +3,13 @@
 </p>
 
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I+studied+Finance+and+Coding!;" /></a>
 </p>
 
-- 👋 Hi, I’m Jongjin
+- 🇰🇷 I`m Korean
 - 🎓 I'm a student at SKKU
 - 💬 I`m interested in Finanace and Coding
-- 💼 Now I work at Samsung Securities
+- 💼 I`m working at Samsung Securities
           
 <h2> Experienced Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
@@ -160,9 +160,8 @@
   <a href="" target="_blank">
     <img alt="Xlwings" src="https://img.shields.io/badge/xlwings-217346?style=for-the-badge&logo=microsoft%20excel&logoColor=white">
   </a>
-                                                                                                             
-                                                                                                             
   
-  and i can`t remember extra skills now,,, plz add <a href="~~">
+  ### ps.
+- and i can`t remember extra skills now,,, plz add <a href="~~">
 - 원본입니다: https://github.com/aastha12/aastha12
 

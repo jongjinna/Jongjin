@@ -80,5 +80,5 @@
   
   #### ps.
 - and i can`t remember extra skills now,,
-- 원본입니다: https://github.com/aastha12/aastha12
+- thanks to aastha12 / https://github.com/aastha12/aastha12
 

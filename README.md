@@ -11,13 +11,10 @@
 - 💬 I`m interested in Finanace and Coding.
 - 💼 I`m working at Samsung Securities.
 - ✈️ 🇰🇷 🇨🇳 (🇺🇸)
-          
+
+<!--           
 <h2> Experienced Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img alt="TensorFlow" src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img alt="Qiskit" src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=Qiskit&logoColor=white">
-</p>
+ -->
 <!-- 
 <h3>Finance</h3>
   <p>
@@ -82,8 +79,9 @@
     <img alt="PyPI" src="https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white">
     <img alt="Xlwings" src="https://img.shields.io/badge/xlwings-217346?style=for-the-badge&logo=microsoft%20excel&logoColor=white">
   </p>
-   -->
-  #### ps.
+-->
+
+#### ps.
 - and i can`t remember extra skills now,,
 - thanks to aastha12 / https://github.com/aastha12/aastha12
 

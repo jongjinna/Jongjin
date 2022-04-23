@@ -80,8 +80,8 @@
     <img alt="Xlwings" src="https://img.shields.io/badge/xlwings-217346?style=for-the-badge&logo=microsoft%20excel&logoColor=white">
   </p>
 -->
-
+<!-- 
 #### ps.
 - and i can`t remember extra skills now,,
 - thanks to aastha12 / https://github.com/aastha12/aastha12
-
+ -->

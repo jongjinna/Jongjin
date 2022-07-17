@@ -11,7 +11,7 @@
 - 🇰🇷 I`m Korean.
 - 🎓 I'm a student at SKKU.
 - 💬 I`m interested in Finanace and Coding.
-- 💼 I`m working at Samsung Securities.
+- 💼 I worked at Samsung Securities.
 - ✈️ 🇰🇷 🇨🇳 (🇺🇸)
 
 <!--           

@@ -10,9 +10,7 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jongjinna&tag=equity&color=dark)](https://velog-readme-stats.vercel.app/api/redirect?name=jongjinna&tag=equity)
 
-<a href = "https://blog.naver.com/njjwa1004">
-    <img src = "https://img.shields.io/badge/N-Blog-success">
-</a>
+[![Naver Badge](https://img.shields.io/badge/Naver_Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/njjwa1004)](https://blog.naver.com/njjwa1004)
 
 <p></p>
 <!--

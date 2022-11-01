@@ -85,8 +85,8 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=jongjinna)](https://velog.io/@jongjinna) 
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=velopert)](https://github.com/jongjinna/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jongjinna)](https://github.com/jongjinna/velog-readme-stats)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=velopert&tag=typescript)](https://github.com/jongjinna/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jongjinna&tag=equity)](https://github.com/jongjinna/velog-readme-stats)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=velopert&color=dark)](https://github.com/jongjinna/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jongjinna&color=dark)](https://github.com/jongjinna/velog-readme-stats)

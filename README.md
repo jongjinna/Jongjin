@@ -8,4 +8,5 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=jongjinna)](https://velog.io/@jongjinna)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jongjinna&tag=equity&color=dark)](https://github.com/jongjinna/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jongjinna&tag=equity&color=dark)](https://velog-readme-stats.vercel.app/api/redirect?name=jongjinna&tag=equity)
+

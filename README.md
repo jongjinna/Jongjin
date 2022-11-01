@@ -82,3 +82,9 @@
 - and i can`t remember extra skills now,,
 - thanks to aastha12 / https://github.com/aastha12/aastha12
 
+
+<a href="https://velog.io/@jongjinna">
+    <img 
+        src="http://img.shields.io/badge/222222?style=flat&logo=Vector Logo Zone&link=https://velog.io/@jongjinna"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>

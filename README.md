@@ -83,8 +83,4 @@
 - thanks to aastha12 / https://github.com/aastha12/aastha12
 
 
-<a href="https://velog.io/@jongjinna">
-    <img 
-        src="http://img.shields.io/badge/222222?style=flat&logo=Vector Logo Zone&link=https://velog.io/@jongjinna"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=jongjinna)](https://velog.io/@jongjinna) 

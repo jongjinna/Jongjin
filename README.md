@@ -15,7 +15,7 @@
 </a>
 
 <p></p>
-
+<!--
 <svg xmlns="http://www.w3.org/2000/svg" width="450" height="130" viewBox="0 0 450 130" fill="none">
     <style>
         .header {
@@ -67,3 +67,4 @@
         </svg>
     </g>
 </svg>
+-->

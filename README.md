@@ -16,6 +16,6 @@
 
 [![Naver Badge](https://img.shields.io/badge/Naver_Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/njjwa1004)](https://blog.naver.com/njjwa1004)
 
-<!-- <a href = "https://blog.naver.com/njjwa1004"><img src = "./naver_blog.svg"></a> -->
+<a href = "https://blog.naver.com/njjwa1004"><img src = "./naver_blog.svg"></a>
 
 <!-- thanks for eungyeole "https://github.com/eungyeole/velog-readme-stats" -->

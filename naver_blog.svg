@@ -24,8 +24,8 @@
     <g data-testid="main-card-body" transform="translate(0, 45)">
         <svg data-testid="lang-items" x="25" width="400" height="40" viewBox="0 0 400 40">
             <g transform="translate(0, 0)">
-                <text data-testid="lang-name" x="2" y="15" class="log-title">[FR] 통화옵션 Pricing & Hedging</text>
-                <text ata-testid="lang-description" x="2" y="35" class="log-description">'통화옵션 Pricing & Hedging' 주제로 특별세미나를 진행했습니다.</text>
+<!--                 <text data-testid="lang-name" x="2" y="15" class="log-title">[FR] 통화옵션 Pricing & Hedging</text>
+                <text ata-testid="lang-description" x="2" y="35" class="log-description">'통화옵션 Pricing & Hedging' 주제로 특별세미나를 진행했습니다.</text> -->
             </g>
         </svg>
     </g>

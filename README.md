@@ -16,8 +16,14 @@
 
 [![Naver Badge](https://img.shields.io/badge/Naver_Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/njjwa1004)](https://blog.naver.com/njjwa1004)
 
-<a href = "https://blog.naver.com/njjwa1004"><img src = "./naver_blog.svg"></a>
+[![Naver Post](https://github.com/jongjinna/jongjinna/blob/main/naver_blog.svg)](https://blog.naver.com/njjwa1004)
 
 <!-- thanks for eungyeole "https://github.com/eungyeole/velog-readme-stats" -->
 
-<!-- <h2> Activity <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> Activity <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+
+[![FR]()]()
+
+[![Moin]()]()
+
+[![Samsung Securities]()]()
